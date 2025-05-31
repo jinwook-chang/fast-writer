@@ -42,7 +42,7 @@ dependencies = [
 [project.urls]
 "Homepage" = "https://github.com/jinwook-chang/fast-writer" # 추가 필요
 "Repository" = "https://github.com/jinwook-chang/fast-writer" 
-"Bug Tracker" = "https://github.com/jinwook-chang/fast-writer"
+"Bug Tracker" = "https://github.com/jinwook-chang/fast-writer/issues"
 
 [project.scripts]
 fast-writer = "fast_writer.main:app"
