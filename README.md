@@ -10,6 +10,9 @@
 
 ## 설치
 
+```
+pip install fast-writer
+```
 
 ```bash
 git clone https://github.com/jinwook-chang/fast-writer
