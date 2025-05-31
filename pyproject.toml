@@ -24,7 +24,6 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
     "Topic :: Utilities",
-    "Framework :: Typer",
     "Intended Audience :: Developers",
     "Intended Audience :: End Users/Desktop",
     "Typing :: Typed",
